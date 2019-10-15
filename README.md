@@ -1,2 +1,3 @@
 # JoJosCabin
-A blog framework designed for database course
+A simple & fast blog platform, built on `Vue.js`.
+
